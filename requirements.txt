@@ -1,0 +1,14 @@
+neo4j==5.14.1
+python-dotenv==1.0.0
+PyGithub==2.1.1
+spacy==3.7.2
+nltk==3.8.1
+keybert==0.7.0
+torch>=2.2.0
+transformers==4.35.2
+sentence-transformers==2.2.2
+huggingface-hub==0.19.4
+langchain-core==0.1.16
+langchain-community==0.0.13
+langchain-openai==0.0.5
+openai>=1.10.0

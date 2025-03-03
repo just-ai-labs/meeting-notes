@@ -1,0 +1,45 @@
+Team Retrospective - February 2, 2025
+
+Time: 3:00 PM - 4:00 PM
+Location: Virtual (Teams)
+
+Attendees:
+- Sarah Johnson (sarah.j@company.com) - Frontend Developer
+- Mike Brown (mike.b@company.com) - Backend Developer
+- Lisa Chen (lisa.chen@company.com) - Product Manager
+- Alex Thompson (alex.t@company.com) - QA Engineer
+
+Agenda:
+1. What went well?
+2. What could be improved?
+3. Action items for next sprint
+
+What Went Well:
+1. Successfully launched user profile feature
+2. Improved test coverage by 15%
+3. Good collaboration between frontend and backend teams
+4. Quick bug fixes in production
+
+Areas for Improvement:
+1. Sprint estimation accuracy
+2. Documentation updates
+3. Communication with remote team members
+4. Code review process
+
+Action Items:
+1. Alex to create template for test documentation (Medium Priority)
+2. Sarah to schedule regular sync with remote team members
+3. Mike to improve API documentation
+4. Lisa to review sprint planning process
+
+Team Decisions:
+1. Will use story points instead of hours for estimation
+2. Adding 10% buffer for unexpected tasks
+3. Implementing "no-meeting Wednesdays"
+
+Kudos:
+- Mike for helping with frontend issues
+- Sarah for mentoring new team members
+- Alex for improving automated testing
+
+Next Retro: February 16, 2025 (3:00 PM)
